@@ -1,10 +1,10 @@
 body {
-  font-family: "";
+  font-family: 'SoleSans';
   background-color: #202125;
-  
+
 }
 
-/* .img_sfondo { 
+/* .img_sfondo {
   mix-blend-mode: multiply;
   z-index: -1;
 }
@@ -22,7 +22,7 @@ body {
     z-index: -1;
     width: 100%;
     height: 100%;
-    object-fit: cover; 
+    object-fit: cover;
  }
 
 .title {
@@ -47,9 +47,9 @@ margin: auto;
 .footer{
   width: 100vw;
   display: flex;
-  justify-content: center; 
+  justify-content: center;
   background-color: #000;
-  
+
   }
 
 .row {
@@ -61,17 +61,17 @@ margin: auto;
 
 .column-half {
   width: 100%;
-  display: flex; 
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  
-  
+
+
 }
 
 .column-half1 {
   width: 100%;
-  display: flex; 
+  display: flex;
   flex-direction: row;
 }
 
@@ -81,7 +81,7 @@ margin: auto;
 }
 
 .grafico_div {
- padding-top: 20px; 
+ padding-top: 20px;
 }
 
 .notifica{
@@ -105,17 +105,17 @@ margin: auto;
   width: 15%;
   padding-top: 30px;
   margin-top: -1.4%;
-  display: inline-block; 
-   float: left; 
+  display: inline-block;
+   float: left;
 }
 
 .p_footer {
   color: white;
-  font-size: 14px; 
-  float: right;  
+  font-size: 14px;
+  float: right;
   width: 80%;
-  display: inline-block;    
-  
+  display: inline-block;
+
 
 }
 
@@ -128,7 +128,7 @@ margin: auto;
   display: flex;
   height: 400px;
   margin: 0 auto;
-  max-width: 1000px; 
+  max-width: 1000px;
   position: relative;
 }
 
@@ -246,7 +246,7 @@ border-radius: 4px;
 }
 
 .gallery-controls-next::before {
-  border: solid #000; 
+  border: solid #000;
   border-width: 0 2px 2px 0;
   content: '';
   display: inline-block;
@@ -327,14 +327,14 @@ h2 {
   align-self: flex-start;
   color: #1767D2 ;
   font-size: 30px;
-  
+
 }
 
 .crediti p {
   text-align: center;
   color: white ;
   font-size: 20px;
- 
+
  }
 
 
@@ -430,7 +430,7 @@ iframe[seamless] {
 
 #Tappe_future {
    height: 250vh;
-  
+
 }
 
 .fonti-bassa-emissione .normale {
@@ -490,6 +490,6 @@ display: flex;
 
 .item_combustibili{
 /* padding-right:0px; */
-display: flex;  
+display: flex;
 
 }
